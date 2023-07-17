@@ -1,3 +1,2 @@
-* linguist-vendored
-*.css linguist-vendored=false
-*.javascript linguist-detectable=true
+index.html* linguist-vendored
+style.css* linguist-vendored
